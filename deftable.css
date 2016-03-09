@@ -1,0 +1,126 @@
+
+
+body { 
+
+	font: 12px arial, sans-Serif; 
+
+}
+
+#page-wrap {
+
+	margin: 50px;
+
+}
+
+p {
+
+	
+
+}
+
+
+h1 {
+
+	font: small-caps bold 26px arial, sans-serif;
+
+	color: #0099cc;
+
+}
+
+
+
+a {
+
+	color: #ff6600;
+
+}
+
+
+
+.videoWrap {
+
+	padding-bottom:30px;
+
+	padding-top:30px;
+
+}
+
+
+
+	/* 
+
+	Generic Styling, for Desktops/Laptops 
+
+	*/
+
+	table { 
+
+		width: 100%; 
+
+		border-collapse: collapse; 
+
+	}
+
+	/* Zebra striping */
+
+	tr.odd { 
+
+		background: #E7E7E7; 
+
+	}
+
+	th { 
+
+		color: #0099cc; 
+
+		font-weight: bold; 
+		
+		padding: 6px; 
+		
+		text-align: center; 
+		
+		border: 0px solid #ccc;
+	}
+
+	td { 
+
+		padding: 6px; 
+
+		border: 1px solid #ccc; 
+
+		text-align: center; 
+		
+		font: 12px arial, sans-Serif; 
+
+	}
+	
+	td.thumb {
+		
+		padding: 1px;
+		border: 0px solid #ccc;
+		background: #fff;
+		width: 300px
+		
+	}
+	
+	th.slim, td.slim {
+		padding: 3px; 
+		width: 5%;
+		font: small-caps bold 10px arial, sans-serif;
+		color: #ff6600;
+	}
+	
+	td.slim {
+		color: #000;
+		font: small-caps bold 10px arial, sans-Serif; 
+	}
+
+	/* game name formating */
+
+	th.gamename, td.gamename {
+
+		color: #ff6600;
+		font: small-caps bold 18px arial, sans-serif;
+		text-align: left;
+		width: 60%;
+	}
